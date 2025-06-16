@@ -6,24 +6,24 @@ Also known online as axixe / @asyncr0.
 
 ## 🧰 My Tech Stack
 
-### 📦 Frontend Frameworks
-![Vue](https://img.shields.io/badge/-Vue-35495e?style=flat&logo=vue.js)
-![Nuxt](https://img.shields.io/badge/-Nuxt-35495e?style=flat&logo=nuxt.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-35495e?style=flat&logo=typescript)
-![SCSS](https://img.shields.io/badge/-SCSS-35495e?style=flat&logo=sass)
+### Frontend Frameworks
+![Vue](https://img.shields.io/badge/Vue-3e3e3e?style=flat&logo=vue.js&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-3e3e3e?style=flat&logo=nuxt.js&logoColor=00DC82)
+![TypeScript](https://img.shields.io/badge/TypeScript-3e3e3e?style=flat&logo=typescript&logoColor=3178C6)
+![SCSS](https://img.shields.io/badge/SCSS-3e3e3e?style=flat&logo=sass&logoColor=CB6699)
 
-### ⚙️ Tooling & Build
-![Vite](https://img.shields.io/badge/-Vite-4B32C3?style=flat&logo=vite)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint)
-![Prettier](https://img.shields.io/badge/-Prettier-4B32C3?style=flat&logo=prettier)
+### Tooling & Build
+![Vite](https://img.shields.io/badge/Vite-3e3e3e?style=flat&logo=vite&logoColor=646CFF)
+![ESLint](https://img.shields.io/badge/ESLint-3e3e3e?style=flat&logo=eslint&logoColor=4B32C3)
+![Prettier](https://img.shields.io/badge/Prettier-3e3e3e?style=flat&logo=prettier&logoColor=F7B93E)
 
-### 📚 State Management
-![Pinia](https://img.shields.io/badge/-Pinia-2496ED?style=flat&logo=pinia)
-![Vuex](https://img.shields.io/badge/-Vuex-2496ED?style=flat&logo=vue.js&logoColor=white)
+### State Management
+![Pinia](https://img.shields.io/badge/Pinia-3e3e3e?style=flat&logo=pinia&logoColor=FADA5E)
+![Vuex](https://img.shields.io/badge/Vuex-3e3e3e?style=flat&logo=vue.js&logoColor=4FC08D)
 
-### 🐳 DevOps & Environment
-![Git](https://img.shields.io/badge/-Git-35495e?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-35495e?style=flat&logo=docker)
+### DevOps & Environment
+![Git](https://img.shields.io/badge/Git-3e3e3e?style=flat&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-3e3e3e?style=flat&logo=docker&logoColor=2496ED)
 
 
 ## ✨ My experience
