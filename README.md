@@ -28,7 +28,7 @@ Also known online as axixe / @asyncr0.
 
 ## ✨ My experience
 
-2 years of commercial development across two companies.  
+2 years of commercial development across three companies.  
 Worked on internal dashboards and client-facing applications using Vue 3 and Nuxt.  
 Most notably, I contributed to projects at Zota, a government-accredited IT company.
 
