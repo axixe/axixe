@@ -1,6 +1,6 @@
 # Hello, I am Alexander Chernakov 🇷🇺👋
 
-I'm 22 y.o.
+I'm 23 y.o.
 Frontend Developer focused on Vue.js ecosystem.  
 Also known online as axixe / @asyncr0.
 
