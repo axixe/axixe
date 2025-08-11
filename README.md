@@ -36,7 +36,6 @@ Most notably, I contributed to projects at Zota, a government-accredited IT comp
 
 - 🔎 [youtube-video-searching](https://github.com/axixe/youtube-video-searching) — Vue 3, Pinia, TypeScript + YouTube API.
 - 📰 [vue-articles](https://github.com/axixe/vue-articles-test-task) — Nuxt 4, TypeScript, axios + MockAPI
-- 
 
 ## 📫 Contacts
 
