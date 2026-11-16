@@ -2,7 +2,7 @@
 
 I'm 24 y.o.
 Frontend Developer focused on Vue.js ecosystem.  
-Also known online as axixe / @asyncr0.
+Also known online as axixe / @nuxt_dev.
 
 ## 🧰 My Tech Stack
 
