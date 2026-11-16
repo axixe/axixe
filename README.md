@@ -39,8 +39,8 @@ Most notably, I contributed to projects at Zota, a government-accredited IT comp
 
 ## 📫 Contacts
 
-- Telegram: [@asyncr0](https://t.me/asyncr0)
-- Email: s1ngleezyt@gmail.com
+- Telegram: [@asyncr0](https://t.me/nuxt_dev)
+- Email: a.chernakov.dev@gmail.com
 
 ---
 
